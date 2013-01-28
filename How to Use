@@ -1,0 +1,9 @@
+How to Use
+
+Place the querystring.js file in the Modules directory in your Wakanda project (at the same level as the WebFolder).
+
+Usage Example:
+
+var querystring = require('querystring');
+
+var request_data = querystring.stringify(data);
