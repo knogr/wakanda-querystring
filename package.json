@@ -1,0 +1,14 @@
+{
+    "name": "wakanda-querystring",
+    "description": "Wakanda version of node.js querystring",
+    "version": "0.9",
+    "author": "Tunc Hoscan",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/knogr/wakanda-querystring.git"
+    },
+    "keywords": ["wakanda", "ssjs", "querystring", "node.js"],
+    "main": "./querystring.js",
+    "engines": {"wakanda" : ">=6.0"},
+    "license": "MIT"
+}
